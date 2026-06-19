@@ -9,7 +9,7 @@ A simple modular calculator built in Python.
 - Division (with zero error handling)
 
 ## How to Run
-python maincalculator.py
+python cal.py
 
 ## What I Learned
 - Python functions
